@@ -1,6 +1,8 @@
 # Farid Abad Araujo
 ### Systems Engineering Student · Costa Rica
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farid--abad--araujo-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/farid-abad-araujo/)
+
 Building production-ready applications across web, desktop, and mobile.
 Currently 75% through my degree at Universidad Fidélitas.
 
