@@ -14,7 +14,7 @@ Currently 75% through my degree at Universidad Fidélitas.
 - **Barber Club** — Landing page para barbería local en Heredia, Costa Rica  
   Next.js · TypeScript · Tailwind CSS · GSAP · Framer Motion · Vercel  
   SEO local con Schema JSON-LD, animaciones de scroll, portales React  
-  [barberclub.cr](https://barberclub.cr) · [GitHub](https://github.com/FaridAraujo/barber-club)
+  [barberclub.cr](https://barberclubcr.com) · [GitHub](https://github.com/FaridAraujo/barber-club)
 
 - **HioFit** — Production website for a Costa Rican wellness brand  
   Next.js 15 · React 19 · TypeScript · Tailwind CSS · Vercel  
