@@ -1,60 +1,62 @@
 # Farid Abad Araujo
-### Systems Engineering Student · Costa Rica
+### Full-Stack Web Developer · Heredia, Costa Rica
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-abad-araujo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faridabadcr@gmail.com)
 
-Building production-ready applications across web, desktop, and mobile.
-Currently 75% through my degree at Universidad Fidélitas.
+2+ years building production web applications for real clients.
+React · Next.js · TypeScript · GSAP · Three.js
 
 ---
 
-### What I Build
+### Shipped
 
-- **SNEAX** — E-commerce storefront for a sneaker retailer with 5 locations across Costa Rica's top malls  
-  Next.js · TypeScript · Tailwind CSS · GSAP · Framer Motion · Three.js · React Three Fiber · Vercel  
-  3D scroll-driven logo animation, cinematic about page, cart system, product catalog with filters  
-  [shoe-store-one-eta.vercel.app](https://shoe-store-one-eta.vercel.app) · [GitHub](https://github.com/FaridAraujo/sneax)
+**SNEAX — E-Commerce Storefront**
+Next.js · TypeScript · Three.js · React Three Fiber · GSAP · Framer Motion
 
-- **Barber Club** — Landing page para barbería local en Heredia, Costa Rica  
-  Next.js · TypeScript · Tailwind CSS · GSAP · Framer Motion · Vercel  
-  SEO local con Schema JSON-LD, animaciones de scroll, portales React  
-  [barberclub.cr](https://barberclubcr.com) · [GitHub](https://github.com/FaridAraujo/barber-club)
-
-- **Grupo Master Automotriz** — Cross-platform billing app (Web/Windows/Android)  
-  React 18 · TypeScript · Electron · Capacitor · PWA  
-  Currently in active use at a real automotive workshop  
-  [GitHub](https://github.com/FaridAraujo/TallerFrancis)
+Built for a Costa Rican sneaker retailer with 5 mall locations and an abandoned Shopify
+store. Identified the gap, built the full solution, and pitched it in person.
+Scroll-driven 3D brand animation, full product catalog with live search and filtering,
+persistent cart, auth flow, and checkout — all mobile-optimized.
+Lighthouse: 98 Performance · 100 Best Practices · 100 SEO (desktop)
+[Live Demo](https://shoe-store-one-eta.vercel.app) · [GitHub](https://github.com/FaridAraujo/sneax)
 
 ---
 
-### Tech Stack
+**Barber Club CR — Production Marketing Site**
+Next.js 15 · TypeScript · Tailwind CSS v4 · GSAP · Framer Motion
+
+Designed, built, and deployed for a paying client. Ranked #1 on Google for primary
+search term. Full SEO infrastructure: Schema.org JSON-LD, Search Console, sitemap,
+Open Graph. Custom physics-based carousel built without a library.
+Lighthouse: 91 Performance · 100 Accessibility · 100 Best Practices · 100 SEO (mobile)
+[barberclubcr.com](https://barberclubcr.com) · [GitHub](https://github.com/FaridAraujo/barber-club)
+
+---
+
+**Grupo Master Facturas — Cross-Platform Billing System**
+React 18 · TypeScript · Electron · Vite · PWA
+
+Invoicing application for a real auto body shop — in daily production use.
+Same codebase runs as a PWA and a packaged Windows desktop app (Electron Builder).
+Hybrid print/PDF system: browser uses @media print CSS, Electron routes through
+native printToPDF IPC with proper contextIsolation security architecture.
+[GitHub](https://github.com/FaridAraujo/TallerFrancis)
+
+---
+
+### Stack
 
 ```
-Languages     Java · TypeScript · JavaScript · Python · PHP · SQL · Dart
-Frontend      Next.js · React · Tailwind CSS · Framer Motion · GSAP · Three.js 
-Backend       Spring Boot · JPA/Hibernate · REST APIs
-Databases     MySQL · MongoDB
-Mobile        Electron · Capacitor · PWA · FlutterFlow
-Tools         Git · Postman · Vite · Vercel
+Frontend    React · Next.js (App Router) · TypeScript · Tailwind CSS
+            GSAP · Framer Motion · Three.js · React Three Fiber
+Backend     Spring Boot · JPA/Hibernate · REST APIs
+Databases   MySQL · MongoDB
+Tools       Git · Vercel · Vite · Electron · Capacitor · PWA/Workbox
 ```
-
----
-
-### Currently
-
-- Finishing my degree (7th term of 8)
-- Open to junior backend, full-stack, frontend or software engineering roles
 
 ---
 
 ### Certifications
-
-- CCNA: Introduction to Networks — Cisco Networking Academy
-- CCNA: Switching, Routing, and Wireless Essentials — Cisco Networking Academy
-
----
-
-### Contact
-
-[faridabadcr@gmail.com](mailto:faridabadcr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/farid-abad-araujo/) · Heredia, Costa Rica
+CCNA: Introduction to Networks — Cisco, 2024
+CCNA: Switching, Routing, and Wireless Essentials — Cisco, 2025
