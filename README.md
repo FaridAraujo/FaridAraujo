@@ -11,14 +11,15 @@ Currently 75% through my degree at Universidad Fidélitas.
 
 ### What I Build
 
+- **SNEAX** — E-commerce storefront for a sneaker retailer with 5 locations across Costa Rica's top malls  
+  Next.js · TypeScript · Tailwind CSS · GSAP · Framer Motion · Three.js · React Three Fiber · Vercel  
+  3D scroll-driven logo animation, cinematic about page, cart system, product catalog with filters  
+  [shoe-store-one-eta.vercel.app](https://shoe-store-one-eta.vercel.app) · [GitHub](https://github.com/FaridAraujo/sneax)
+
 - **Barber Club** — Landing page para barbería local en Heredia, Costa Rica  
   Next.js · TypeScript · Tailwind CSS · GSAP · Framer Motion · Vercel  
   SEO local con Schema JSON-LD, animaciones de scroll, portales React  
   [barberclub.cr](https://barberclubcr.com) · [GitHub](https://github.com/FaridAraujo/barber-club)
-
-- **HioFit** — Production website for a Costa Rican wellness brand  
-  Next.js 15 · React 19 · TypeScript · Tailwind CSS · Vercel  
-  [hiofit.vercel.app](https://hiofit.vercel.app) · [GitHub](https://github.com/FaridAraujo/hiofit)
 
 - **Grupo Master Automotriz** — Cross-platform billing app (Web/Windows/Android)  
   React 18 · TypeScript · Electron · Capacitor · PWA  
@@ -31,7 +32,7 @@ Currently 75% through my degree at Universidad Fidélitas.
 
 ```
 Languages     Java · TypeScript · JavaScript · Python · PHP · SQL · Dart
-Frontend      Next.js · React · Tailwind CSS · Framer Motion · GSAP  
+Frontend      Next.js · React · Tailwind CSS · Framer Motion · GSAP · Three.js 
 Backend       Spring Boot · JPA/Hibernate · REST APIs
 Databases     MySQL · MongoDB
 Mobile        Electron · Capacitor · PWA · FlutterFlow
@@ -43,9 +44,7 @@ Tools         Git · Postman · Vite · Vercel
 ### Currently
 
 - Finishing my degree (7th term of 8)
-- Deepening backend skills with Java and Spring Boot
-- Working toward AWS Cloud Practitioner certification
-- Open to junior backend, full-stack, or software engineering roles
+- Open to junior backend, full-stack, frontend or software engineering roles
 
 ---
 
